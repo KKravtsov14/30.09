@@ -33,4 +33,5 @@ public class Main {
         book.deleteRecord(5);
         System.out.println(book.getAllRecords());
     }
+
 }
